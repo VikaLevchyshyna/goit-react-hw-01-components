@@ -1,0 +1,16 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  min-width: 80px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #752faf;
+}
+
+.label {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 500;
+  color: #0f8e92;
+}

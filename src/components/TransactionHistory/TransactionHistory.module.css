@@ -1,0 +1,14 @@
+.history {
+  width: 600px;
+  margin: 0 auto 30px;
+  text-align: center;
+  border: 1px solid rgb(15, 23, 129);
+}
+
+.thead {
+  padding: 30px;
+  color: rgb(26, 24, 155);
+  font-size: 24px;
+  text-transform: uppercase;
+  background-color: rgb(164, 209, 236);
+}
